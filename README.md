@@ -1,3 +1,3 @@
 # front-end-gurus
 educational projects
-it works !!!!!!!!
+it works
